@@ -3,6 +3,10 @@
 This is a complete Continious Integration and Continious Delivery(CICD) usinf complete services of Amazon-web Services(AWS)
 where any changes done in code will be detected and code changed will be triggered by AWS pipeline and commits changes and reconstructs.
 
+
+
+![Architecture Diagram](Architecture.png)
+
 **Services Used**:
 
 - AWS Pipeline
@@ -12,8 +16,6 @@ where any changes done in code will be detected and code changed will be trigger
 - S3 Bucket
 - Elastic Beanstalk
 - Relational Database(RDS)
-
-![Architecture Diagram](Architecture.png)
 
 ## Services Explanation
 **Come Commit:** To store the Source code<br />
