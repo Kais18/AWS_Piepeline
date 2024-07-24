@@ -16,8 +16,8 @@ where any changes done in code will be detected and code changed will be trigger
 ![Architecture Diagram](Architecture.png)
 
 ## Services Explanation
-<u>Come Commit</u> : To store the Source code
-<u>Code Build</u>: To build the Artifact and Analysis
+<u>Come Commit</u> : To store the Source code/n
+<u>Code Build</u>: To build the Artifact and Analysis/n
 <u>Code Deploy</u> : Deploy Artifact to varios targets, here our target being EBS
 <u>Elastic Beanstalk</u> : Platform to run Tomcat Services
 <u>RDS</u> : used as a Database
